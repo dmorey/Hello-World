@@ -3,6 +3,6 @@ export function greet(name: string): string {
 }
 
 if (require.main === module) {
-  console.log('Hello, TypeScript world!');
-  console.log(greet('World'));
+  console.log('Hello, Daryl!');
+  console.log(greet('Daryl'));
 }
